@@ -1,0 +1,9 @@
+SearchPromotion
+assignment_tag
+absolute_import
+unicode_literals
+register
+Query
+template
+django
+get_search_promotions

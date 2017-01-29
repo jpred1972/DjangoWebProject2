@@ -1,0 +1,5 @@
+tests
+default_app_config
+templatetags
+apps
+models

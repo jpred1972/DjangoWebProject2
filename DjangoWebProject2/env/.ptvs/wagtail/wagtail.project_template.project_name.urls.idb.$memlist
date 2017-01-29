@@ -1,0 +1,13 @@
+static
+wagtailadmin_urls
+absolute_import
+unicode_literals
+include
+urlpatterns
+url
+staticfiles_urlpatterns
+wagtail_urls
+search_views
+wagtaildocs_urls
+admin
+settings

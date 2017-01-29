@@ -1,0 +1,16 @@
+RemovedInWillow05Warning
+RGBImageBuffer
+registry
+INITIAL_IMAGE_CLASSES
+Image
+JPEGImageFile
+RGBAImageBuffer
+imghdr
+UnrecognisedImageFormatError
+PNGImageFile
+test_jpeg
+GIFImageFile
+ImageBuffer
+warnings
+BMPImageFile
+ImageFile

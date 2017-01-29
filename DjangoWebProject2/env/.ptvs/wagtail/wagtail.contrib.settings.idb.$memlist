@@ -1,0 +1,12 @@
+templatetags
+registry
+apps
+wagtail_hooks
+forms
+context_processors
+tests
+views
+models
+permissions
+urls
+jinja2tags

@@ -1,0 +1,5 @@
+absolute_import
+register_signal_handlers
+unicode_literals
+AppConfig
+WagtailFrontendCacheAppConfig

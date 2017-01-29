@@ -1,0 +1,11 @@
+SearchPromotion
+AdminPageChooser
+absolute_import
+unicode_literals
+_
+Query
+inlineformset_factory
+SearchPromotionForm
+SearchPromotionsFormSet
+SearchPromotionsFormSetBase
+forms

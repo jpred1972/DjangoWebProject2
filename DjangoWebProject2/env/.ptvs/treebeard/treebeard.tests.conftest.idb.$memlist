@@ -1,0 +1,8 @@
+pytest_configure
+os
+pytest_report_header
+django
+setup_test_environment
+teardown_test_environment
+connection
+pytest_unconfigure

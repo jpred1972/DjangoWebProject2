@@ -1,0 +1,5 @@
+pytest
+coverage
+sys
+os
+run_the_tests

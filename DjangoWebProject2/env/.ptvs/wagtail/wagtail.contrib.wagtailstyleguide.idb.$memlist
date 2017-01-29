@@ -1,0 +1,6 @@
+tests
+default_app_config
+wagtail_hooks
+views
+apps
+models

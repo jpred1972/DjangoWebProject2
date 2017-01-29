@@ -1,0 +1,4 @@
+absolute_import
+WagtailRoutablePageAppConfig
+unicode_literals
+AppConfig

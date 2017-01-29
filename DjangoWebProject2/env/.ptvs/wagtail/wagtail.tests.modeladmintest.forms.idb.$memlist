@@ -1,0 +1,5 @@
+absolute_import
+Publisher
+unicode_literals
+PublisherModelAdminForm
+forms

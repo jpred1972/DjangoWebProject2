@@ -1,0 +1,7 @@
+absolute_import
+unicode_literals
+WagtailAPIRouter
+url
+decorate_urlpatterns
+functools
+include

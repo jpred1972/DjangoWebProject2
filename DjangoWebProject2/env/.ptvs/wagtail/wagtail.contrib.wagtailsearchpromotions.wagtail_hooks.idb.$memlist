@@ -1,0 +1,12 @@
+hooks
+SearchPicksMenuItem
+absolute_import
+unicode_literals
+urlresolvers
+register_admin_urls
+url
+admin_urls
+Permission
+MenuItem
+_
+include

@@ -1,0 +1,11 @@
+contrib
+VERSION
+api
+absolute_import
+unicode_literals
+__semver__
+get_version
+get_semver_version
+tests
+bin
+__version__

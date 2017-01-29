@@ -1,0 +1,16 @@
+Permission
+models
+unicode_literals
+CustomUser
+sys
+absolute_import
+methods
+EmailUser
+steal_method
+AbstractBaseUser
+PermissionsMixin
+EmailUserManager
+BaseUserManager
+Group
+method
+CustomUserManager

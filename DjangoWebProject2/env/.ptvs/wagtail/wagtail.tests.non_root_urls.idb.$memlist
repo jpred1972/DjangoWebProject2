@@ -1,0 +1,10 @@
+wagtailadmin_urls
+absolute_import
+unicode_literals
+wagtaildocs_urls
+urlpatterns
+wagtailsearch_urls
+url
+wagtail_urls
+wagtailimages_urls
+include

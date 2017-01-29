@@ -1,0 +1,14 @@
+SearchPromotion
+TestSearchPromotions
+TestGetSearchPromotionsTemplateTag
+absolute_import
+unicode_literals
+reverse
+TestSearchPromotionsAddView
+Query
+TestSearchPromotionsDeleteView
+WagtailTestUtils
+TestCase
+TestSearchPromotionsEditView
+get_search_promotions
+TestSearchPromotionsIndexView

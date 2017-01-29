@@ -1,0 +1,8 @@
+ModelAdminMenuItem
+SubmenuMenuItem
+absolute_import
+unicode_literals
+Menu
+MenuItem
+SubMenu
+GroupMenuItem

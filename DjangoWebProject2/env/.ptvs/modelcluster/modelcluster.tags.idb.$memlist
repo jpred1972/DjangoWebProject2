@@ -1,0 +1,6 @@
+absolute_import
+unicode_literals
+FakeQuerySet
+warnings
+DeprecationWarning
+ClusterTaggableManager

@@ -1,0 +1,8 @@
+AnotherSearchTestChild
+index
+absolute_import
+unicode_literals
+TaggableManager
+models
+SearchTestChild
+SearchTest

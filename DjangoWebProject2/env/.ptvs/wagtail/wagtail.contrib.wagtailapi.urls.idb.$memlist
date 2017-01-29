@@ -1,0 +1,9 @@
+v1
+PagesAPIEndpoint
+absolute_import
+unicode_literals
+WagtailAPIRouter
+urlpatterns
+url
+DocumentsAPIEndpoint
+ImagesAPIEndpoint

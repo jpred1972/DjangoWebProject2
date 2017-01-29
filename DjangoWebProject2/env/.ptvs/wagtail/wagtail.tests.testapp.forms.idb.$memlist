@@ -1,0 +1,5 @@
+absolute_import
+ValidatedPageForm
+unicode_literals
+WagtailAdminPageForm
+forms

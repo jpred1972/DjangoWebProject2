@@ -1,0 +1,10 @@
+six
+_ClusterTaggableManager
+absolute_import
+unicode_literals
+_TaggableManager
+require_instance_manager
+TaggableManager
+ClusterTaggableManager
+FakeQuerySet
+settings
